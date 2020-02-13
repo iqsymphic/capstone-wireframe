@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans HK", sans-serif;
+  text-align: center;
+  font-family: "PT Sans", sans-serif;
+  margin: 0, auto;
+  padding: 0;
+}
+
+.topnav {
+  position: fixed;
+  left: 0px;
+  padding-bottom: 20px;
+  width: 100%;
+  text-align: right;
+  background: #bfc1d2;
+}
+
+.topnav #myLinks {
+  display: none;
+  font-size: 13px;
+}
+
+.topnav a {
+  text-decoration: none;
+  color: #172a3a;
+  padding-right: 15px;
+  font-size: 14px;
+}
+
+.topnav a.icon {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin: 5px 0px;
+}
+
+.active {
+  background-color: white;
+  color: black;
+}
+
+header {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  width: 70%;
+  display: inline-block;
+  margin-top: 150px;
+  height: 500px;
+}
+
+header span {
+  font-family: "Roboto", sans-serif;
+  color: #172a3a;
+}
+
+header h1 {
+  font-size: 32px;
+}
+
+header ul li img {
+  margin: 80px 5px;
+  width: 30px;
+  height: 30px;
+}
+
+header p {
+  font-size: 22px;
+}
+
+section,
+header {
+  min-height: 150px;
+  padding: 4% 0;
+}
+
+h2 {
+  font-family: "Economica", sans-serif;
+  font-size: 24px;
+}
+
+p {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 20px;
+  color: #6f4b66;
+  width: 75%;
+}
