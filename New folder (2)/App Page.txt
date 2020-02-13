@@ -1,0 +1,13 @@
+﻿App Page‌ (Main!)
+
+-User can immediately see the center, which will have some kind of...note of some kind(?)‌ 
+
+-User presses note they are prompted =\>‌ If empty then create something to add
+
+-If User presses on something already existing =\>‌They can either edit or delete said note
+
+-User can also see the buttons at the top, one of them will be a log out button
+
+-User press logout button, then they will be able to exit the app
+
+Unsure what else to add for the moment...but will add further as I‌ build the app.
