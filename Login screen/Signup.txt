@@ -1,0 +1,17 @@
+﻿Signup Page
+
+1)‌ if (user === new)‌ { create username and password }
+
+1a)‌ if user tries to create UserName but already taken, is told and must retry new
+
+1b)‌ if user tries to use email or something, then told must retry with another
+
+Then, user should validate created username =\>‌taken to homepage of app
+
+2)‌if (user === !new)‌ { must log in with created profile! }
+
+2a) User has valid UserName &&‌ Password, given authorization to enter app!
+
+2b)‌User has valid Username but !‌Password, denied access, told to retry password
+
+2c)‌User enters nonexistent UserName =\>‌has to re-enter username or create new one
